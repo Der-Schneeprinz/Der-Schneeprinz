@@ -1,7 +1,9 @@
+ENG:
 - 👋 Hi, I’m @Der-Schneeprinz
 - 👓 I like learning different languages whether for computers or for people.
 - 🌱 I’m currently learning Web Deving and Game Development.
 
+DEU:
 - 👋 Hallo, ich bin @Der-Schneeprinz.
 - 👓 Ich mag es, andere Schprechen für Kompüter oder für Menschen lernen. 
 - 🌱 Ich lerne jetzt Webentwicklung und Gamewicklung.
